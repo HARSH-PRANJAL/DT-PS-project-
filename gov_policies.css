@@ -1,0 +1,32 @@
+main{
+    background-color: antiquewhite;
+}
+.social{
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+    margin-top: 10px;
+}
+p{
+    font-size: large;
+    padding: 7px;
+    line-break: auto;
+    line-height: 20px;
+}
+.navs{
+    text-decoration: none;
+    color: aliceblue;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.navigation{  
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    flex-wrap: wrap;
+    width: auto;
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    padding: 5px;
+}
